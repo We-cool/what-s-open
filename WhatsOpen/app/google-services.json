@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "812268123912",
+    "firebase_url": "https://what-s-open-24cb0.firebaseio.com",
+    "project_id": "what-s-open-24cb0",
+    "storage_bucket": "what-s-open-24cb0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:812268123912:android:734ae91513c1239fe49ebd",
+        "android_client_info": {
+          "package_name": "com.example.whatsopen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "812268123912-d1a2cbtubed5rilk05larjf4r3a67hm8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.whatsopen",
+            "certificate_hash": "dcf5149228a8417d57548ba56bfe6e73db985710"
+          }
+        },
+        {
+          "client_id": "812268123912-ochj42ivv8bevbfvlkoqgd98crlv0ep5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoBebbaNBIZJV9z-CEIdC7zRRqxd2flck"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "812268123912-ochj42ivv8bevbfvlkoqgd98crlv0ep5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -113,4 +113,4 @@ This is a repository for a restaurant locating app
 
 project Gif
 
-
+https://github.com/We-cool/what-s-open/blob/master/whatsOpen_home_signUp_signIn.gif?raw=true

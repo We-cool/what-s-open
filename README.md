@@ -106,7 +106,11 @@ This is a repository for a restaurant locating app
 | Favorites |  List  |    Text     |
 
 
-### Networking (assigned to Jeremiah Biggs)
-@jbiggs@bulldogs.aamu.edu
+
 - [Data Models]
 - [OPTIONAL: List endpoints if using existing API such as Yelp]
+
+
+project Gif
+
+

@@ -25,9 +25,9 @@ This is a repository for a restaurant locating app
 
 **Required Must-have Stories**
 
-* [Login screen- User can login using google ]
-* [Users have to be able to see what restaraunts are open ]
-* [Users have to be able to see the customer traffic of the restaraunts]
+* [Login screen- User can login using google ] [x]
+* [Users have to be able to see what restaraunts are open ] [x]
+* [Users have to be able to see the customer traffic of the restaraunts] [x]
 * [Users have to see the price range of the restaraunt]
 
 **Optional Nice-to-have Stories**
